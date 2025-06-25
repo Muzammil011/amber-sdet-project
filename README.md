@@ -17,7 +17,7 @@ Add test report generation and parallel execution
 ##  Project Highlights
 
 - UI automation using Playwright (JavaScript)
-- REST API testing with GET and POST requests
+- REST API testing with GET, POST, PUT, and DELETE requests
 - Load testing using Locust (Python)
 - CI/CD integration with GitHub Actions
 
